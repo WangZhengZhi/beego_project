@@ -1,5 +1,6 @@
 beego_project
 ====
+https://img.shields.io/cocoapods/dt/AFNetworking.svg
 概览:
 基于beego 的后台管理系统
 
