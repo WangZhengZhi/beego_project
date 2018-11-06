@@ -1,6 +1,6 @@
 beego_project
 ====
-*概览:
+概览:
 基于beego 的后台管理系统
 
 
@@ -13,12 +13,12 @@ MVC
 参见
 
 `beego 官方网站：`
-beego.me
+https://beego.me
 
 
 
 -----
-*文件目录
+文件目录
 ```
 conf
     --app.conf//配置文件
@@ -36,7 +36,7 @@ views
     --......//视图文件
 main.go //主程序入口
 ```
-*依赖需求
+依赖需求
 ----
 ```
 1. beego   
@@ -58,7 +58,7 @@ go get github.com/smartystreets/goconvey/convey
 
 ```
 
-*使用方法
+使用方法
 ----
 `cd go PATH`
 
@@ -98,7 +98,7 @@ func init() {
 
 
 
-*2 配置文件
+2 配置文件
 
 
 ```
