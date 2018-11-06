@@ -1,6 +1,11 @@
 beego_project
 ====
-https://img.shields.io/cocoapods/dt/AFNetworking.svg
+![](https://img.shields.io/cocoapods/l/Alamofire.svg?style=flat)
+[![](https://travis-ci.org/Alamofire/Alamofire.svg?branch=master)](https://travis-ci.org/Alamofire/Alamofire)
+
+![](https://img.shields.io/badge/-v1.0.0-519dd9.svg)
+
+
 概览:
 基于beego 的后台管理系统
 
