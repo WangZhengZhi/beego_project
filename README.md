@@ -2,8 +2,9 @@ beego_project
 ====
 ![](https://img.shields.io/cocoapods/l/Alamofire.svg?style=flat)
 [![](https://travis-ci.org/Alamofire/Alamofire.svg?branch=master)](https://travis-ci.org/Alamofire/Alamofire)
-
 ![](https://img.shields.io/badge/-v1.0.0-519dd9.svg)
+![](https://img.shields.io/badge/language-golang-green.svg)
+![](https://img.shields.io/badge/platform-macos|windows|linux-green.svg)
 
 
 概览:
